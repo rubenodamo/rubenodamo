@@ -20,6 +20,7 @@
 
 <p align="center">
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rubenodamo&show_icons=true&theme=dark&title_color=a6d5c3&text_color=e3fee9&bg_color=3a7b7e&hide_border=true&cache_seconds=1800&locale=en" alt="rubenodamo" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubenodamo&show_icons=true&theme=dark&title_color=6284ab&text_color=c5dbe0&bg_color=2d426d&hide_border=true&locale=en&layout=compact" alt="rubenodamo" /></p>
 </p>
 
