@@ -6,22 +6,24 @@
 <br>
 <br>
 
-- 👨🏾‍💻 Most recently I have worked on [java-reversi-othello](https://github.com/rubenodamo/java-reversi-othello)
+👨🏾‍💻 Most recently I have worked on [java-reversi-othello](https://github.com/rubenodamo/java-reversi-othello)
 
-- 🎓 I’m currently learning **Software Development, AI Methods, Cyber Physical Systems, amongst other things.**
+🎓 I’m currently learning **Software Development, AI Methods, Cyber Physical Systems, amongst other things.**
 
-- 💬 Ask me about **Football, Cooking and Movies**
+💬 Ask me about **Football, Cooking and Movies**
 
-- 📫 How to reach me **rubenodamo15@gmail.com**
+📫 How to reach me **rubenodamo15@gmail.com**
 
 
 <br>
 <br>
 
 <p align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubenodamo&show_icons=true&theme=dark&title_color=a6d5c3&text_color=e3fee9&bg_color=3a7b7e&hide_border=true&cache_seconds=1800&locale=en" alt="rubenodamo" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubenodamo&show_icons=true&theme=dark&title_color=6284ab&text_color=c5dbe0&bg_color=2d426d&hide_border=true&locale=en&layout=compact" alt="rubenodamo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubenodamo&show_icons=true&theme=dark&title_color=a6d5c3&text_color=e3fee9&bg_color=3a7b7e&hide_border=true&cache_seconds=1800&locale=en" alt="rubenodamo" /></p>
+
 </p>
 
 <br>
