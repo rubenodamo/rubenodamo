@@ -1,37 +1,47 @@
-<img width="1127" alt="PNG image" src="https://github.com/rubenodamo/rubenodamo/assets/93412774/693b26b2-2dc6-4b96-b190-ac83bf3784e7">
-
-<h1 align="left">Hi 👋, I'm Ruben</h1>
-
-<h3 align="left">A passionate Computer Science student, currently in my second year of university.</h3>
-
-- 👨🏾‍💻 Most recently I have worked on [java-reversi-othello](https://github.com/rubenodamo/java-reversi-othello)
-
-- 🎓 I’m currently learning **Software Development, AI Methods, Cyber Physical Systems, amongst other things.**
-
-- 💬 Ask me about **Football, Cooking and Movies**
-
-- 📫 How to reach me **rubenodamo15@gmail.com**
-
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-
-<br>
-<br>
-
-
-<br>
-<br>
+<h1 align="center">Hi 👋, I'm Ruben</h1>
 
 <p align="center">
-  <a href="https://github.com/rubenodamo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubenodamo&show_icons=true&theme=dark&title_color=a6d5c3&text_color=e3fee9&bg_color=3a7b7e&hide_border=true&cache_seconds=1800&locale=en" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubenodamo&show_icons=true&theme=dark&title_color=6284ab&text_color=c5dbe0&bg_color=2d426d&hide_border=true&locale=en&layout=compact"/>
+  <a href="https://rubenodamo.io/">
+    <img src="https://github.com/rubenodamo/rubenodamo/assets/93412774/693b26b2-2dc6-4b96-b190-ac83bf3784e7" alt="MasterHead">
   </a>
 </p>
 
-<br>
-<br>
-
-<p align="center">
-<a href="https://linkedin.com/in/rubenodamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubenodamo" height="21" width="28" /></a>
+<p align="right">
+  <a href="https://linkedin.com/in/rubenodamo">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
+
+<h3 align="left"><em>A passionate Computer Science student, currently in my second year of university...</em></h3>
+
+👨🏾‍💻 Most recently I have worked on [java-reversi-othello](https://github.com/rubenodamo/java-reversi-othello)<br>
+🎓 I’m currently learning **Software Development, AI Methods, Cyber Physical Systems, amongst other things**<br>
+💬 Ask me about **Football, Cooking and Movies**<br>
+📫 How to reach me **rubenodamo15@gmail.com**<br>
+
+---
+<details><summary><h3>👾 Tech Stack</h3></summary>
+<p align="center">
+  <!-- Your shields here -->
+  
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</p>
+</details>
+
+<details><summary><h3>📊 Github Stats</h3></summary>
+<p align="center">
+  <a href="https://github.com/rubenodamo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubenodamo&theme=prussian&hide_border=true&include_all_commits=true&count_private=false" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rubenodamo&theme=prussian&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenodamo&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+  </a>  
+</p>
+</details>
+
+<details><summary><h3>🏆 Github Trophies</h3></summary>
+<p align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=rubenodamo&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+</p>
+</details>
 
