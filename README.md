@@ -32,7 +32,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubenodamo&theme=prussian&hide_border=true&include_all_commits=true&count_private=false" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rubenodamo&theme=prussian&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenodamo&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
-  </a>  
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=rubenodamo&label=Profile%20views&color=008080&style=flat" alt="rubenodamo" />
 </p>
 </details>
 
