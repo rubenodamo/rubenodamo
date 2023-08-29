@@ -1,3 +1,6 @@
+<img width="1127" alt="PNG image" src="https://github.com/rubenodamo/rubenodamo/assets/93412774/e28c0aee-f3b3-4265-8605-795553391460">
+
+
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 <h3 align="center">A passionate Computer Science student, currently in my second year of university.</h3>
 
