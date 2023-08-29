@@ -1,4 +1,5 @@
-<img width="1127" alt="PNG image" src="https://github.com/rubenodamo/rubenodamo/assets/93412774/e28c0aee-f3b3-4265-8605-795553391460">
+<img width="1127" alt="PNG image" src="https://github.com/rubenodamo/rubenodamo/assets/93412774/693b26b2-2dc6-4b96-b190-ac83bf3784e7">
+
 
 
 <h1 align="center">Hi 👋, I'm Ruben</h1>
