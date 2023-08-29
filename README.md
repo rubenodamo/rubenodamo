@@ -29,9 +29,9 @@
 <details><summary><h3>📊 Github Stats</h3></summary>
 <p align="center">
   <a href="https://github.com/rubenodamo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubenodamo&theme=prussian&hide_border=true&include_all_commits=true&count_private=false" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubenodamo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rubenodamo&theme=prussian&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenodamo&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook,scilab"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenodamo&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook,scilab"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=rubenodamo&label=Profile%20views&color=008080&style=flat" alt="rubenodamo" />
@@ -43,5 +43,4 @@
   <img src="https://github-trophies.vercel.app/?username=rubenodamo&theme=nord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
 </details>
-
 
