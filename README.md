@@ -14,7 +14,7 @@
 
 <h3 align="left"><em>A passionate Computer Science student, currently in my second year of university...</em></h3>
 
-👨🏾‍💻 Most recently I have worked on [java-reversi-othello](https://github.com/rubenodamo/java-reversi-othello)<br>
+👨🏾‍💻 Most recently, I have worked on [java-reversi-othello](https://github.com/rubenodamo/java-reversi-othello)<br>
 🎓 I’m currently learning **Software Development, AI Methods, Cyber Physical Systems, amongst other things**<br>
 💬 Ask me about **Football, Cooking and Movies**<br>
 📫 How to reach me **rubenodamo15@gmail.com**<br>
